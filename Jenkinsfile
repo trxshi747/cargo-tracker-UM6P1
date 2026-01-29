@@ -21,7 +21,7 @@ pipeline {
 
 
     }
-//Test with webhook
+//Test with webhook 2
     post {
         success {
             echo 'Build et analyse terminés avec succès !'
